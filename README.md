@@ -1,7 +1,7 @@
 # Parking Lot Software Inc.
 
 
-
+![image](https://github.com/moksh2212/parking_managment/assets/75446958/24b9ccf5-5097-47de-931c-8f6700cebd48)
 The app used in this [article](https://www.mihailgaberov.com/how-to-solve-the-parking-lot-challenge-in-javascript/). 
 You may read it also in [freeCodeCamp](https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/).
 
