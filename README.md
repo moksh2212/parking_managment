@@ -1,10 +1,4 @@
-# Parking Lot Software Inc.
-
-
-![image](https://github.com/moksh2212/parking_managment/assets/75446958/24b9ccf5-5097-47de-931c-8f6700cebd48)
-The app used in this [article](https://www.mihailgaberov.com/how-to-solve-the-parking-lot-challenge-in-javascript/). 
-You may read it also in [freeCodeCamp](https://www.freecodecamp.org/news/parking-lot-challenge-solved-in-javascript/).
-
-### Screenshots:
-![Screenshot_2022-06-14_at_12 46 46](https://user-images.githubusercontent.com/2501904/174318766-c40e4d55-f416-495b-acd0-430e1efbcf78.png)
-![Screenshot_2022-06-14_at_12 47 51](https://user-images.githubusercontent.com/2501904/174318774-4f51f596-a33e-4c8b-9501-d513f9916427.png)
+# Parking Lot Manager
+<img width="428" alt="image" src="https://github.com/moksh2212/parking_managment/assets/75446958/28510ec7-a226-4d7f-b397-61ff801a8e97">
+<img width="197" alt="image" src="https://github.com/moksh2212/parking_managment/assets/75446958/14561a1c-029b-4969-8f8e-7c8b77febf33">
+<img width="323" alt="image" src="https://github.com/moksh2212/parking_managment/assets/75446958/13d655f4-032d-443d-bb22-1a1f71596545">
