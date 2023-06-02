@@ -1,0 +1,61 @@
+.infoBoard {
+  border: 1px solid white;
+  border-radius: 5px;
+
+  background-color: rgb(31 47 52);
+  position: relative;
+  margin-top: 135px;
+  font-family: 'Sevillana', cursive;
+  h3 {
+    text-align: center;
+    margin: 0.3rem 0.3rem 0 0.3rem;
+    font-family: 'Sevillana', cursive;
+    color: rgb(195, 173, 1);
+    font-size: 23px;
+  }
+  .s1{
+    padding-left: 3rem;
+    font-size: 31px;
+    padding-right: 3rem;
+    color: #7c7b07;
+  }
+  .s2{
+    padding-left: 3rem;
+    font-size: 31px;
+    padding-right: 3rem;
+    color: green;
+  }
+  .s3{
+    padding-left: 3rem;
+    font-size: 31px;
+    padding-right: 3rem;
+    color:red;
+  }
+
+  div {
+    display: flex;
+    justify-content: center;
+
+    padding: 0.5rem;
+
+    span {
+      color: green;
+      /* padding: 1rem; */
+      font-size: 17px;
+      padding-left: 1rem;
+      font-family: 'Sevillana', cursive;
+    }
+   
+  }
+  .t{
+    color: #7c7b07;
+  }
+  .a{
+    color: green;
+  }
+  .p{
+    color:red
+  }
+}
+
+

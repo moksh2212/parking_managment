@@ -1,0 +1,52 @@
+
+.landing {
+  h1 {
+    font-size: 3.8rem;
+    font-family: 'Sevillana', cursive;
+    @media screen and (min-width: 50rem) {
+      font-size: 5.9rem;
+    }
+    color:#a8c51c;
+  }
+
+  section {
+    width: 100%;
+
+    @media only screen and (min-width: 1080px) {
+      width: 59%;
+    }
+  }
+
+  .title {
+    text-align: center;
+    margin: 1rem 0;
+    font-weight: 300;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+      sans-serif;
+      font-size: 22px;
+  }
+
+  .errorMessage {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+  }
+
+  .submitBtn {
+    transition: border-radius 0.15s;
+
+    &:hover {
+      border-radius: 40px;
+      cursor: pointer;
+    }
+  }
+}
+.c{
+  position: relative;
+  top: -42px;
+  left: 324px;
+  width: 102px;
+
+  height: 89px;
+}
+
